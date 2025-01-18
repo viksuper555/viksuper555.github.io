@@ -6,6 +6,8 @@ website:
   navbar:
     right:
       - blog.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/viktor-kolev-496a68184/
       - icon: github
         href: https://github.com/viksuper555/viksuper555.github.io
   page-footer:
