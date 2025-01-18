@@ -4,7 +4,7 @@
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nCitationBibTeX citation:@online{o'malley2025,\n  author = {O’Malley, Tristan},\n  title = {Welcome {To} {My} {Blog}},\n  date = {2025-01-15},\n  url = {https://viksuper555.github.io/posts/welcome/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nO’Malley, Tristan. 2025. “Welcome To My Blog.” January 15,\n2025. https://viksuper555.github.io/posts/welcome/."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\nCitationBibTeX citation:@online{o'malley2025,\n  author = {O’Malley, Tristan},\n  title = {Welcome {To} {My} {Blog}},\n  date = {2025-01-15},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nO’Malley, Tristan. 2025. “Welcome To My Blog.” January 15,\n2025."
   },
   {
     "objectID": "index.html",
@@ -25,6 +25,6 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code.\n\n\n\nCitationBibTeX citation:@online{malloc2025,\n  author = {Malloc, Harlow},\n  title = {Post {With} {Code}},\n  date = {2025-01-18},\n  url = {https://viksuper555.github.io/posts/post-with-code/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMalloc, Harlow. 2025. “Post With Code.” January 18, 2025.\nhttps://viksuper555.github.io/posts/post-with-code/."
+    "text": "This is a post with executable code.\n\n\n\nCitationBibTeX citation:@online{malloc2025,\n  author = {Malloc, Harlow},\n  title = {Post {With} {Code}},\n  date = {2025-01-18},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMalloc, Harlow. 2025. “Post With Code.” January 18, 2025."
   }
 ]
