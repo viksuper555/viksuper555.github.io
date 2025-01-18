@@ -6,3 +6,13 @@ freeze: true
 citation: true
 # Enable banner style title blocks
 title-block-banner: true
+comments:
+  giscus:
+    theme: light
+    repo: viksuper555/viksuper555.github.io
+    repo-id: R_kgDONsC5nA
+    category: Blog
+    category-id: DIC_kwDONsC5nM4CmIZa
+    mapping: pathname
+    reactions-enabled: true
+    input-position: top
