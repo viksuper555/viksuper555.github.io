@@ -1,15 +1,23 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "Blog"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/viksuper555/viksuper555.github.io
+  comments:
+    giscus:
+      theme: light
+      repo: viksuper555/viksuper555.github.io
+      repo-id: R_kgDONsC5nA
+      category: Blog
+      category-id: DIC_kwDONsC5nM4CmIZa
+      mapping: pathname
+      reactions-enabled: true
+      input-position: top
   page-footer:
     right: "This website is built with ❤️  and [Quarto](https://quarto.org/), by Viktor Kolev. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)."
 
