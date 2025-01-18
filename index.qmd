@@ -1,14 +1,16 @@
 ---
-title: "Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/viktor-kolev-496a68184/
+    - icon: github
+      text: Github
+      href: https://github.com/viksuper555
+
 ---
 
-
+Welcome to my blog! I'm Viktor, a Software Engineer from Sofia. In this blog, I will share my journey in the tech world, exploring interesting topics in-depth.
