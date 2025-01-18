@@ -13,6 +13,6 @@ comments:
     repo-id: R_kgDONsC5nA
     category: General
     category-id: DIC_kwDONsC5nM4CmIZa
-    mapping: pathname
+    mapping: title
     reactions-enabled: true
     input-position: top
